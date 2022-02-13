@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+.banner {
+    height: 200px;
+    background-image: url('images/444301.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    padding-top: 150px;
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px dotted aqua;
+}
+
+q{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Destination {
+    text-align: left;
+}
+
+.Destination h3 {
+    color: aqua;
+    font-size: 32px;
+}
+
+.Destination h4 {
+    color: blue;
+    font-size: 24px;
+}
+
+.Destination p {
+    color: red;
+    font-size: 24px;
+}
+
+.Destination ul {
+    margin-left: 20px;
+    font-size: 24px;
+    list-style-type: square;
+    color: white;
+    font-family: sans-serif;
+}
+
+.More p {
+    border-color: aqua;
+    border: 3px dotted;
+}
